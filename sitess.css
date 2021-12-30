@@ -1,0 +1,19 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: red;
+}
+.pp {background-color: gold; 
+	width: 50%;
+	border: 30px;
+	border-color: grey;
+	border-style: outset;
+	border-radius: 50%;
+}
+.ppp {background-color: goldenrod; 
+	width: 40%;
+}
+.pppp {background-color: ghostwhite ; 
+	width: 30%;
+}
+
